@@ -1,0 +1,11 @@
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>gentoo-old</name>
+		<description lang="en">Unofficial gentoo overlay with old packages</description>
+		<homepage>https://github.com/pr0d1r2/gentoo-old-overlay</homepage>
+		<owner type="person">
+			<name>Marcin Nowicki</name>
+		</owner>
+		<source type="git">git://github.com/pr0d1r2/gentoo-old-overlay.git</source>
+	</repo>
+</repositories>
